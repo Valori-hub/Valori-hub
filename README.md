@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">22 yo</h3>
 <br>
+<p align="center">🤓 Check my portfolio <a href="https://valori-hub.github.io/Portfolio/">here </a> 🤓</p>
 <br>
 <p align="center"> - 🔭 I’m currently working on Todo-list</p> 
   <br>
